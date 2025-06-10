@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <translation-management>
+        <admin-texts>
+        </admin-texts>
+    </translation-management>
+
+    <custom-fields>
+    </custom-fields>
+
+    <custom-types>
+    </custom-types>
+
+    <taxonomies>
+    </taxonomies>
+</wpml-config>
